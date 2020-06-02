@@ -1,10 +1,7 @@
-name: example-environment
-channels:
-  - conda-forge
+name: termodinamica-environment
 dependencies:
   - numpy
   - matplotlib
   - bokeh
   - IPython
-  - simpy
   - CoolProp
